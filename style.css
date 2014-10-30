@@ -1,0 +1,19 @@
+/* Stylesheet for InstaFollow Content Locker Shortcode */
+.instafollow-content-locker {
+	width: 80%;
+	display: block;
+	border: 3px dashed #ccc;
+	padding: 20px;
+	text-align: center;
+	margin: 20px auto
+}
+.instafollow-content-locker div.instafollow-button{
+	overflow: hidden;
+	background: none repeat scroll 0 0 #24890D;
+	border-radius: 3px 3px 3px 3px;
+	color: #F6F6F6;
+	display: inline;
+	font-family: Open Sans;
+	font-weight: 500;
+	padding: 2px 5px;
+}
